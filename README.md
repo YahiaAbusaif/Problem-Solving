@@ -1,9 +1,9 @@
 # Problem-solving-
 competitive-programming 
 
-this is for my codes to solve some problemes
+this is my codes for solve some problemes
 
-All codes are written by Yahia Ali Abusaif
+All codes have been written by Yahia Ali Abusaif
 
 A2OJ profile : https://a2oj.com/profile?Username=Y_Abusaif
 
