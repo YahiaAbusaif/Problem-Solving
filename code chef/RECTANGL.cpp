@@ -53,6 +53,10 @@ ll const loo = 1e18 + 9;
  
 int main()
 {
+	// 	make it fast
+	ios_base::sync_with_stdio(false);
+	cin.tie(0);
+	cout.tie(0);
 	int n,a,b,c,d;
 	cin>>n;
 	lop(i,n)
