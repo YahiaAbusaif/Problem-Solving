@@ -7,7 +7,7 @@ All codes have been written by Yahia Ali Abusaif
 
 A2OJ profile : https://a2oj.com/profile?Username=Y_Abusaif
 
-CodeForces profile : http://codeforces.com/profile/Hacked
+CodeForces profile : https://codeforces.com/profile/YaAAbu
 
 CodeChef profile : https://www.codechef.com/users/hacked0
 
