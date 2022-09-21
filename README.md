@@ -7,7 +7,7 @@ All codes have been written by Yahia Ali Abusaif
 
 leetcode profile : https://leetcode.com/YaAAbu/
 
-HackerRank profile : https://www.hackerrank.com/hacked0?hr_r=1
+HackerRank profile : https://www.hackerrank.com/YaAAbu?hr_r=1
 
 CodeForces profile : https://codeforces.com/profile/YaAAbu
 
